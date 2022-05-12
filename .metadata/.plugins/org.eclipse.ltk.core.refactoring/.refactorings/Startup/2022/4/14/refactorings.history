@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<session version="1.0">
+<refactoring comment="Rename package &apos;Online&apos; to &apos;com.chainsys.Online&apos;&#x0D;&#x0A;- Original project: &apos;Startup&apos;&#x0D;&#x0A;- Original element: &apos;Startup/src/Online&apos;&#x0D;&#x0A;- Renamed element: &apos;Startup/src/com.chainsys.Online&apos;&#x0D;&#x0A;- Update references to refactored element&#x0D;&#x0A;- Update textual occurrences in comments and strings" description="Rename package &apos;Online&apos;" flags="589830" hierarchical="false" id="org.eclipse.jdt.ui.rename.package" input="/src&lt;Online" name="com.chainsys.Online" qualified="false" references="true" stamp="1648807501955" textual="false" version="1.0"/>
+</session>
