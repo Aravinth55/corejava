@@ -10,7 +10,11 @@
 		<item key="wholeword" value="false"/>
 		<item key="incremental" value="false"/>
 		<item key="isRegEx" value="false"/>
+		<item key="selection" value=""/>
 		<list key="findhistory">
+			<item value="message += &quot; Error in Appointment id input &lt;/p&gt;&quot;;"/>
+			<item value="&lt;body&gt;"/>
+			<item value=""/>
 		</list>
 		<list key="replacehistory">
 		</list>

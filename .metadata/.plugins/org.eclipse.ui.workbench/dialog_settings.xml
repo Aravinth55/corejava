@@ -21,12 +21,16 @@
 			<item value="org.eclipse.e4.ui.parts"/>
 		</list>
 		<list key="textEntries">
-			<item value="1"/>
-			<item value="1"/>
+			<item value="2"/>
+			<item value="2"/>
 		</list>
 		<list key="textArray">
 			<item value="servers"/>
+			<item value="ser"/>
 			<item value="conso"/>
+			<item value="con"/>
 		</list>
+	</section>
+	<section name="ImportExportAction">
 	</section>
 </section>
