@@ -1,4 +1,4 @@
-package com.chainsys.miniproject.commonutil;
+package com.chainsys.jspproject.commonutil;
 
 import java.io.FileWriter;
 import java.io.IOException;

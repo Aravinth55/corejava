@@ -1,4 +1,4 @@
-package com.chainsys.miniproject.commonutil;
+package com.chainsys.jspproject.commonutil;
 
 
 public class HTMLHelper {
